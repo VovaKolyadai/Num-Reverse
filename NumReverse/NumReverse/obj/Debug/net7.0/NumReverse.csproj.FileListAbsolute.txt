@@ -1,0 +1,15 @@
+D:\dev\Num-Reverse\NumReverse\NumReverse\bin\Debug\net7.0\NumReverse.exe
+D:\dev\Num-Reverse\NumReverse\NumReverse\bin\Debug\net7.0\NumReverse.deps.json
+D:\dev\Num-Reverse\NumReverse\NumReverse\bin\Debug\net7.0\NumReverse.runtimeconfig.json
+D:\dev\Num-Reverse\NumReverse\NumReverse\bin\Debug\net7.0\NumReverse.dll
+D:\dev\Num-Reverse\NumReverse\NumReverse\bin\Debug\net7.0\NumReverse.pdb
+D:\dev\Num-Reverse\NumReverse\NumReverse\obj\Debug\net7.0\NumReverse.csproj.AssemblyReference.cache
+D:\dev\Num-Reverse\NumReverse\NumReverse\obj\Debug\net7.0\NumReverse.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\Num-Reverse\NumReverse\NumReverse\obj\Debug\net7.0\NumReverse.AssemblyInfoInputs.cache
+D:\dev\Num-Reverse\NumReverse\NumReverse\obj\Debug\net7.0\NumReverse.AssemblyInfo.cs
+D:\dev\Num-Reverse\NumReverse\NumReverse\obj\Debug\net7.0\NumReverse.csproj.CoreCompileInputs.cache
+D:\dev\Num-Reverse\NumReverse\NumReverse\obj\Debug\net7.0\NumReverse.dll
+D:\dev\Num-Reverse\NumReverse\NumReverse\obj\Debug\net7.0\refint\NumReverse.dll
+D:\dev\Num-Reverse\NumReverse\NumReverse\obj\Debug\net7.0\NumReverse.pdb
+D:\dev\Num-Reverse\NumReverse\NumReverse\obj\Debug\net7.0\NumReverse.genruntimeconfig.cache
+D:\dev\Num-Reverse\NumReverse\NumReverse\obj\Debug\net7.0\ref\NumReverse.dll
